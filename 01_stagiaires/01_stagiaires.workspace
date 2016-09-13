@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="01_stagiaires">
+		<Project filename="initStagiaires/initStagiaires.cbp" />
+		<Project filename="initNotes/initNotes.cbp" />
+		<Project filename="biblMatiere/biblMatiere.cbp" />
+		<Project filename="initMatieres/initMatieres.cbp" />
+		<Project filename="lireFichiers/lireFichiers.cbp" />
+		<Project filename="correction/correction.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

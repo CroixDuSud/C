@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1466011170 source:u:\bip\formateur\gnmi\c\evaluations\01_stagiaires\correction\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"R:\C\evaluation\entetes\stagiaire.h"
+	"R:\C\evaluation\entetes\matiere.h"
+	"R:\C\evaluation\entetes\note.h"
+
+1461673022 r:\c\evaluation\entetes\stagiaire.h
+
+1461675255 r:\c\evaluation\entetes\matiere.h
+	<stdio.h>
+
+1351182059 r:\c\evaluation\entetes\note.h
+
