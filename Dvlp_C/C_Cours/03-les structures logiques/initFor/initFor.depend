@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461140829 source:c:\dvlp_cpp\c-cours-bases\03-les structures logiques\initfor\initfor.c
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461155024 source:c:\dvlp_cpp\c-cours-bases\05-les pointeurs\pointallocdyntabl2d\pointallocdyntabl2d.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+

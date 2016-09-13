@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461246479 source:c:\dvlp_cpp\c-tp-bases\02-tableaux\tabldecomp\tabldecomp.c
+	<stdio.h>
+	<conio.h>
+

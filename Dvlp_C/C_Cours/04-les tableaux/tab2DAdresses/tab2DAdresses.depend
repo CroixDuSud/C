@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461154588 source:c:\dvlp_cpp\c-cours-bases\04-les tableaux\tab2dadresses\tabl2dadresses.c
+	<stdio.h>
+	<conio.h>
+

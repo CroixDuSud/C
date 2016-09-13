@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461248860 source:u:\bip\formateur\gnmi\c\cours_algo\01_presentation\presfacturesutil\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"R:\c\utilitaires\entetes\chaines.h"
+
+1461237764 r:\c\utilitaires\entetes\chaines.h
+

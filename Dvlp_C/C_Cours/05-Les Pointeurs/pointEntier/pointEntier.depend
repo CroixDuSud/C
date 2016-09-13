@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461073793 source:c:\dvlp_cpp\c-cours-bases\05-les pointeurs\pointentier\pointentier.cpp
+	<stdio.h>
+	<conio.h>
+
+1461074503 source:c:\dvlp_cpp\c-cours-bases\05-les pointeurs\pointentier\pointentier.c
+	<stdio.h>
+	<conio.h>
+

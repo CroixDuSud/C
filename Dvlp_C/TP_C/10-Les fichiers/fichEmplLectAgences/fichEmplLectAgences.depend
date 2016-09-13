@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1461242516 source:u:\bip\formateur\gnmi\c\tp_c\08_fichiers\fichempllectagences\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\c\utilitaires\entetes\agences.h"
+
+1461240481 r:\c\utilitaires\entetes\agences.h
+
+1461240481 c:\c\utilitaires\entetes\agences.h
+

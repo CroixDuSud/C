@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461241115 source:c:\dvlp_cpp\c-tp-bases\02-tableaux\tablex1\tablex1.c
+	<stdio.h>
+	<conio.h>
+

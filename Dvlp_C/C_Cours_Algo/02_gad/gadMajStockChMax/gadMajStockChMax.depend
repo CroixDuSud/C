@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461252262 source:u:\bip\formateur\gnmi\c\cours_algo\02_gad\gadmajstockchmax\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"R:\C\utilitaires\entetes\chaines.h"
+
+1461237764 r:\c\utilitaires\entetes\chaines.h
+

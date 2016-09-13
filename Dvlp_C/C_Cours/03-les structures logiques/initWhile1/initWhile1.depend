@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461140424 source:c:\dvlp_cpp\c-cours-bases\03-les structures logiques\initwhile1\initwhile1.c
+	<stdio.h>
+	<conio.h>
+

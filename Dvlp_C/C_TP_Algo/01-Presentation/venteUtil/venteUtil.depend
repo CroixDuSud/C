@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461322718 source:u:\bip\formateur\gnmi\c\tp_algo\01_presentation\venteutil\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"R:\C\utilitaires\entetes\chaines.h"
+	"R:\C\utilitaires\entetes\temps.h"
+

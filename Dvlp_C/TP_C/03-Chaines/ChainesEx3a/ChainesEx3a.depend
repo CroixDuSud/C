@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461231568 source:c:\dvlp_cpp\c-tp-bases\02-chaines\chainesex3a\chainesex3a.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+

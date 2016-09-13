@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1461162560 source:c:\dvlp_cpp\c-cours-bases\09-biblio de fonctions\bibliofractions\fractions.c
+	<stdio.h>
+	<stdlib.h>
+	"fractions.h"
+
+1317206907 c:\dvlp_cpp\c-cours-bases\09-biblio de fonctions\bibliofractions\fractions.h
+
+1461162782 source:c:\dvlp_cpp\c-cours-bases\09-biblio de fonctions\bibliofractions\testfractions.c
+	<stdio.h>
+	<conio.h>
+	"fractions.h"
+
