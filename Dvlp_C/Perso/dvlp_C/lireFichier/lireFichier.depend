@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1466168689 source:c:\dvlp_c\lirefichier\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"R:\C\evaluation\entetes\stagiaire.h"
+	"R:\C\evaluation\entetes\matiere.h"
+
+1461673022 r:\c\evaluation\entetes\stagiaire.h
+
+1461675255 r:\c\evaluation\entetes\matiere.h
+	<stdio.h>
+

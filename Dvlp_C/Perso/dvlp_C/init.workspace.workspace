@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="init.workspace">
+		<Project filename="bidouille/bidouille.cbp" />
+		<Project filename="initEx1/initEx1.cbp" />
+		<Project filename="initSum/initSum.cbp" />
+		<Project filename="initFloat/initFloat.cbp" />
+		<Project filename="Exercice_1/Exercice_1.cbp" />
+		<Project filename="exercice_2/exercice_2.cbp" />
+		<Project filename="exercice_3/exercice_3.cbp" />
+		<Project filename="exercice_4/exercice_4.cbp" />
+		<Project filename="exercice_5/exercice_5.cbp" />
+		<Project filename="Exercice_1_to_5/Exercice_1_to_5.cbp" />
+		<Project filename="initExFac_ex1/initExFac_ex1.cbp" />
+		<Project filename="initExFac_ex2/initExFac_ex2.cbp" />
+		<Project filename="initExFac_ex3/initExFac_ex3.cbp" />
+		<Project filename="tablEx1/tablEx1.cbp" />
+		<Project filename="tablEx2/tablEx2.cbp" />
+		<Project filename="tablEx/tablEx.cbp" />
+		<Project filename="tablEx3dichotomie/tablEx3dichotomie.cbp" />
+		<Project filename="tablPascal/tablPascal.cbp" />
+		<Project filename="chaines_1/chaines_1.cbp" />
+		<Project filename="chaines_2/chaines_2.cbp" />
+		<Project filename="chaines_3/chaines_3.cbp" />
+		<Project filename="chaines_4/chaines_4.cbp" />
+		<Project filename="chaines_5/chaines_5.cbp" />
+		<Project filename="foncFraction/foncFraction.cbp" />
+		<Project filename="R:/Dvlp_C/TP_C/04-Fonctions/FoncFractions/FoncFractions.cbp" />
+		<Project filename="foncFraction_Struct/foncFraction_Struct.cbp" />
+		<Project filename="foncFraction_Struct_modulaire/foncFraction_Struct_modulaire.cbp" />
+		<Project filename="foncChaines_1/foncChaines_1.cbp" />
+		<Project filename="chaineChaines_1m/chaineChaines_1m.cbp" />
+		<Project filename="foncChaines_2/foncChaines_2.cbp" />
+		<Project filename="foncChaines_2m/foncChaines_2m.cbp" />
+		<Project filename="foncChaines_3/foncChaines_3.cbp" />
+		<Project filename="foncChaines_4/foncChaines_4.cbp" />
+		<Project filename="foncChaines_5/foncChaines_5.cbp" />
+		<Project filename="foncChaines_5_modulaire/foncChaines_5_modulaire.cbp" />
+		<Project filename="pointeurs/pointeurs.cbp" />
+		<Project filename="fichEmploye/fichEmploye.cbp" />
+		<Project filename="fichEmploye_2/fichEmploye_2.cbp" />
+		<Project filename="fichEmploye_3/fichEmploye_3.cbp" />
+		<Project filename="statistiquesDesVentes/statistiquesDesVentes.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

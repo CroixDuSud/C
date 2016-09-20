@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1463063947 source:c:\dvlp_c\fichemploye\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1463063540 c:\dvlp_c\fichemploye\fonctions.h
+
+1463065004 source:c:\dvlp_c\fichemploye\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1461922260 source:c:\dvlp_c\tablex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1461853970 source:c:\dvlp_c\tablex\randomtab.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

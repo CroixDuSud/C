@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1466166579 source:c:\dvlp_c\evaluation\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"C:\Users\afpa1800\Desktop\evaluation\entetes\stagiaire.h"
+	"C:\Users\afpa1800\Desktop\evaluation\entetes\chaines.h"
+
+1461673022 c:\users\afpa1800\desktop\evaluation\entetes\stagiaire.h
+
+1461341538 c:\users\afpa1800\desktop\evaluation\entetes\chaines.h
+

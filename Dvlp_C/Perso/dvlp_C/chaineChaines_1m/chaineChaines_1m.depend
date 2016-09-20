@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1462889905 source:c:\dvlp_c\chaine_1m\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1462889756 c:\dvlp_c\chaine_1m\fonctions.h
+
+1462889767 source:c:\dvlp_c\chaine_1m\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1462889767 source:c:\dvlp_c\chainechaines_1m\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1462889756 c:\dvlp_c\chainechaines_1m\fonctions.h
+
+1462889905 source:c:\dvlp_c\chainechaines_1m\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+

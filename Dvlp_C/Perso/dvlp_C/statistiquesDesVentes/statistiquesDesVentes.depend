@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1463583542 source:c:\dvlp_c\statistiquesdesventes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"R:\C\utilitaires\entetes\chaines.h"
+	"R:\C\utilitaires\entetes\temps.h"
+
+1461341538 r:\c\utilitaires\entetes\chaines.h
+
+1461318691 r:\c\utilitaires\entetes\temps.h
+

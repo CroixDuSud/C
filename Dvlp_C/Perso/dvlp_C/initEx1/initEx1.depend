@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462966901 source:c:\dvlp_c\initex1\main.c
+	<stdio.h>
+	<stdlib.h>
+

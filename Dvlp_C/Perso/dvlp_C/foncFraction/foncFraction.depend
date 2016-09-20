@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462372603 source:c:\dvlp_c\foncfraction\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1462374695 c:\dvlp_c\foncfraction\fonctions.h
+

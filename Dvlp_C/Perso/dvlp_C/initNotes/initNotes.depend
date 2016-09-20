@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1466169992 source:c:\dvlp_c\initnotes\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"R:\C\evaluation\entetes\note.h"
+
+1351182059 r:\c\evaluation\entetes\note.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1462883638 source:c:\dvlp_c\foncchaines_5_modulaire\main.c
+	"foncChaines_5.h"
+
+1462880185 c:\dvlp_c\foncchaines_5_modulaire\foncchaines_5.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462800609 source:c:\dvlp_c\foncchaines_5_modulaire\foncchaines_5.c
+	"foncChaines_5.h"
+

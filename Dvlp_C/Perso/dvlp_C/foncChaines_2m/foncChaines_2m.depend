@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462891430 source:c:\dvlp_c\foncchaines_2m\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1462891426 c:\dvlp_c\foncchaines_2m\fonctions.h
+
+1462891193 source:c:\dvlp_c\foncchaines_2m\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+

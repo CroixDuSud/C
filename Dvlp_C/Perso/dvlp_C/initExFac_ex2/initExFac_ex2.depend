@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462287807 source:c:\dvlp_c\initexfac_ex2\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462973607 source:c:\dvlp_c\bidouille\main.c
+	<stdio.h>
+	<stdlib.h>
+

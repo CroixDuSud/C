@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462345956 source:c:\dvlp_c\chaines_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

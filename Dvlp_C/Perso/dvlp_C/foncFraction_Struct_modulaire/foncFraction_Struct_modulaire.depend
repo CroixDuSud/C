@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1462887754 source:c:\dvlp_c\foncfraction_struct_modulaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1462887754 c:\dvlp_c\foncfraction_struct_modulaire\fonctions.h
+
+1462887755 source:c:\dvlp_c\foncfraction_struct_modulaire\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+

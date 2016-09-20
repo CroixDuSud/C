@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461763567 source:c:\dvlp_c\exercice_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1461762674 source:c:\dvlp_c\exercice_1\fonctionexercice_1.c
+	<stdio.h>
+	<stdlib.h>
+

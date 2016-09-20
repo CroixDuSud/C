@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461766752 source:c:\dvlp_c\exercice_1_to_5\exercices.c
+	<stdio.h>
+	<stdlib.h>
+
+1461766172 source:c:\dvlp_c\exercice_1_to_5\main.c
+	<stdio.h>
+	<stdlib.h>
+

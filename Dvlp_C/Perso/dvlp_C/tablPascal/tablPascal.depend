@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462288248 source:c:\dvlp_c\tablpascal\main.c
+	<stdio.h>
+	<stdlib.h>
+
